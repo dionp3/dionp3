@@ -1,5 +1,6 @@
 <h1 align="center">Holla 👋, I'm Dion Prayoga</h1>
 <h3 align="center">A learning enthusiast</h3>
+<h4 align="center">A Informatics Student at Institut Teknologi Kalimantan and Electrician at SMKN 1 BPP
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dionp3&label=Profile%20views&color=0e75b6&style=flat" alt="dionp3" /> </p>
 
