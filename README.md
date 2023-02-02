@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Dion Prayoga
+### College at Institut Teknologi Kalimantan
 
 <!--
 **dionp3/dionp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
