@@ -1,6 +1,6 @@
 <h1 align="center">Holla 👋, I'm Dion Prayoga</h1>
 <h3 align="center">A learning enthusiast</h3>
-<h3 align="center">Informatics Student at Institut Teknologi Kalimantan
+<h3 align="center">Informatics Student at Kalimantan Institute of Technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
