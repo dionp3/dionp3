@@ -1,4 +1,4 @@
-<h1 align="center">Holla 👋, I'm Dion Prayoga</h1>
+<h1 align="center">Hola 👋, I'm Dion Prayoga</h1>
 <h3 align="center">A learning enthusiast</h3>
 <h3 align="center">Informatics Student at Kalimantan Institute of Technology
 
