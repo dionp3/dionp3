@@ -7,7 +7,7 @@
 Welcome to my corner of GitHub, where ideas come to life through code!  
 
 ## 🚀 About Me  
-- 🎓 Informatics student at Institut Teknologi Kalimantan.  
+- 🎓 Informatics student at Kalimantan Institute of Technology.  
 - 🔧 Currently learning and exploring new things and sharpening my skills.  
 - 🎨 Passionate about technology, programming, electrical, photography, videography, and graphic design.  
 - 🎯 Aspiring to become the best.    
@@ -15,4 +15,4 @@ Welcome to my corner of GitHub, where ideas come to life through code!
 ## 📫 Let's Connect!  
 - Feel free to reach out or explore my repositories!  
 
-Thanks for stopping by! Happy coding! 🚀 
+Thanks for stopping by! May your code always be bug-free! 🚀 
