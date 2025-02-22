@@ -1,18 +1,18 @@
-# Error 404
+# 👾 Error 404 - Not Found  
 
-![](https://komarev.com/ghpvc/?username=dionp3)
+![Profile Views](https://komarev.com/ghpvc/?username=dionp3)  
 
-# Hi there, I'm dionp3!
+# Hi there, I'm dionp3! 👋  
 
-Welcome to my GitHub profile!
+Welcome to my corner of GitHub, where ideas come to life through code!  
 
-## About Me
+## 🚀 About Me  
+- 🎓 Informatics student at Institut Teknologi Kalimantan.  
+- 🔧 Currently learning and exploring new things and sharpening my skills.  
+- 🎨 Passionate about technology, programming, electrical, photography, videography, and graphic design.  
+- 🎯 Aspiring to become the best.    
 
-- I’m currently learning new programming languages and technologies.
-- I’m working on various projects to enhance my coding skills.
+## 📫 Let's Connect!  
+- Feel free to reach out or explore my repositories!  
 
-## My GitHub Stats
-
-![dionp3's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionp3&show_icons=true&theme=radical)
-
-Thanks for visiting my profile!
+Thanks for stopping by! Happy coding! 🚀 
